@@ -1,0 +1,2 @@
+# DeveloperTesting
+Правила тестирования DragonBot
